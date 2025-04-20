@@ -11,6 +11,8 @@ public class Basic {
 		driver.get("https://omayo.blogspot.com/");
 		driver.manage().window().maximize();
 
+		System.out.println("Krish has update this code");
+
 	}
 
 }
