@@ -24,6 +24,8 @@ public class TC001_alert {
 		Thread.sleep(3000);
 		
 		alert.accept();
+		
+		System.out.println("This was newely updated by karan with this statement");
 
 	}
 
